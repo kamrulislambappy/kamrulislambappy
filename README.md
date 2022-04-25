@@ -6,7 +6,7 @@ I am a web developer. Learning my knowledge and sharing my knowledge with others
 
 Skills: PHP / JavaScript / SQL / HTML / CSS / Git
 
-- 🔭 I’m currently working on Freelancer.com 
+- 🔭 I’m currently working on Freelancer
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Developer 
