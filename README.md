@@ -4,9 +4,9 @@
 
 I am a web developer. Learning my knowledge and sharing my knowledge with others as much as possible. I love solving coding problems and solving real world problems. I work strategically, goal-oriented, and always with one end goal in mind. some technologies I enjoy working with include JavaScript as well as PHP. In my free time I like to visit nature and visit different places.
 
-Skills: PHP / JavaScript / SQL / HTML / CSS / Git
+Skills: PHP / Laravel / JavaScript / React JS / mySQL / HTML and CSS
 
-- 🔭 I’m currently working on Freelancer
+- 🔭 I’m currently working on Freelance Marketplace
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Developer 
