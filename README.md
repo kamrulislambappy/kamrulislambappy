@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm KAMRUL ISLAM ABU SAYEED
-#### I'm full stack Web developer from Bangladesh.
+#### I'm full stack web developer from Bangladesh.
+#### I'm Full Stack Web Developer from Bangladesh.
 
 ![I am Web Full Stack Developer](https://github.com/kamrulislambappy/all-images/blob/main/GitHub%20Profile%20Pictures.jpg?raw=true)
 
