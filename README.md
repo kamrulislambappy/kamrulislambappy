@@ -3,9 +3,7 @@
 
 ![I am Web Full Stack Developer](https://github.com/kamrulislambappy/all-images/blob/main/GitHub%20Profile%20Pictures.jpg?raw=true)
 
-# ❝
 <h4>I am a web developer. Learning my knowledge and sharing my knowledge with others as much as possible. I love solving coding problems and solving real world problems. I work strategically, goal-oriented, and always with one end goal in mind. some technologies I enjoy working with include JavaScript as well as PHP. In my free time I like to visit nature and visit different places.</h4>
-# ❞
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamrulislambappy&label=Profile%20views&color=0e75b6&style=flat" alt="kamrulislambappy" /> </p>
 
