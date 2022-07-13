@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Freelance Marketplace**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Advanced JavaScript**
 
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/kamrulislambappy)
 
