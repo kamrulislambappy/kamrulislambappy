@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm full stack Web developer from Bangladesh. KAMRUL ISLAM ABU SAYEED</h1>
-![I am Web Developer](https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb1.2.1&auto=format&fit=crop&w=1032&q=80)
+![I am Web Developer](https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1032&q=80)
 <h3 align="center">❝I am a web developer. Learning my knowledge and sharing my knowledge with others as much as possible. I love solving coding problems and solving real world problems. I work strategically, goal-oriented, and always with one end goal in mind. some technologies I enjoy working with include JavaScript as well as PHP. In my free time I like to visit nature and visit different places.❞</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamrulislambappy&label=Profile%20views&color=0e75b6&style=flat" alt="kamrulislambappy" /> </p>
