@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Web Developments**
 
-- 📫 How to reach me **kamrulislamabusayed@gmail.com**
-
 - ⚡ Fun fact **Any fool can write code that a computer can understand.**
 
 <h3 align="left">Connect with me:</h3>
