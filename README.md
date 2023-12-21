@@ -1,7 +1,7 @@
 ![]()
 
 ### Hi there 👋, I'm KAMRUL ISLAM
-<h4>I am a full-stack web application developer from Kamrul, Bangladesh. A part of my effort, patience, and feeling in programming. I love working with JavaScript. I like to solve any problem. In my spare time, I love nature and traveling to different places.</h4>
+<h4>I'm Kamrul, a full-stack web application developer from Bangladesh. A part of my effort, patience, and feeling in programming. I love working with JavaScript. I like to solve any problem. In my spare time, I love nature and traveling to different places.</h4>
 
 👀 I’m interested in Web Development <br>
 🌱 I’m currently learning MERN Stack <br>
