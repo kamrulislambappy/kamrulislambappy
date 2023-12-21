@@ -3,11 +3,11 @@
 ### Hi there 👋, I'm KAMRUL ISLAM
 <h4>I am a full-stack web application developer from Kamrul, Bangladesh. A part of my effort, patience, and feeling in programming. I love working with JavaScript. I like to solve any problem. In my spare time, I love nature and traveling to different places.</h4>
 
-👋 Hi, I’m @kamrulislambappy
-👀 I’m interested in web development
-🌱 I’m currently learning MERN Stack
-💞️ I’m looking to collaborate on GitHub
-📫 How to reach me m.abusayeedhassan@gmail.com
+👋 Hi, I’m @kamrulislambappy <br>
+👀 I’m interested in web development <br>
+🌱 I’m currently learning MERN Stack <br>
+💞️ I’m looking to collaborate on GitHub <br>
+📫 How to reach me m.abusayeedhassan@gmail.com <br>
 ⚡ Fun fact: Any fool can write code that a computer can understand. <br><br>
 
 ## 💻 Programming Skills:
