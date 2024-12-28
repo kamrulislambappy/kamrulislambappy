@@ -1,7 +1,9 @@
 ![](https://lh3.googleusercontent.com/u/1/drive-viewer/AEYmBYQF_2vOKVZK_PRQ6FqyFukejaRNBWGhw0BBD4pGZmEHz0AZfUUgifsabfH0laDv4-Qps3dpktv9dYlx0sUdRqnv9PHirA=w1366-h633)
 
-### Hi there 👋, I'm KAMRUL ISLAM
-<h4>I'm Kamrul, a full-stack web application developer from Bangladesh. A part of my effort, patience, and feeling in programming. I love working with JavaScript. I like to solve any problem. In my spare time, I love nature and traveling to different places.</h4>
+### Hi there 👋, I'm BAPPY AL HASAN
+<h4>Hello! I'm <b>BAPPY AL HASAN,</b> a full-stack web application developer from Bangladesh. A part of my effort, patience, and feeling in programming.
+
+I love working with <b>JavaScript</b> and enjoy solving problems from small to complex. I am always eager to explore new technologies and expand my skill set. In my free time, I like to travel, read books, and exercise. These activities enrich my life and fuel my creativity.</h4>
 
 👀 I’m interested in Web Development <br>
 🌱 I’m currently learning MERN Stack <br>
