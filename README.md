@@ -3,6 +3,7 @@
 ### Hi there 👋, I'm BAPPY AL HASAN
 <h4>Hello! I'm <b>BAPPY AL HASAN,</b> a full-stack web application developer from Bangladesh. A part of my effort, patience, and feeling in programming.
 
+
 I love working with <b>JavaScript</b> and enjoy solving problems from small to complex. I am always eager to explore new technologies and expand my skill set. In my free time, I like to travel, read books, and exercise. These activities enrich my life and fuel my creativity.</h4>
 
 👀 I’m interested in Web Development <br>
