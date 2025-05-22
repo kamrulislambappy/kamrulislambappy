@@ -10,7 +10,7 @@ I love working with **JavaScript** and enjoy solving problems from small to comp
 👀 I enjoy programming. <br>
 🌱 I’m currently learning the MERN Stack. <br>
 💞️ I’m looking to collaborate on GitHub. <br>
-📫 How to reach me m.bappyalhasan@gmail.com <br>
+📫 How to reach me: m.bappyalhasan@gmail.com <br>
 ⚡ Fun fact: Any fool can write code that a computer can understand. <br><br>
 
 #### My coding skills:
