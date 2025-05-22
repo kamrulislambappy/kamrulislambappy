@@ -8,7 +8,7 @@ Hello! I'm **BAPPY AL HASAN**, a full-stack web application developer from Bangl
 I love working with **JavaScript** and enjoy solving problems from small to complex. I am always eager to explore new technologies and expand my skill set. In my free time, I like to travel, read books, and exercise. These activities enrich my life and fuel my creativity.
 
 👀 I enjoy programming. <br>
-🌱 I’m currently learning MERN Stack. <br>
+🌱 I’m currently learning the MERN Stack. <br>
 💞️ I’m looking to collaborate on GitHub. <br>
 📫 How to reach me m.bappyalhasan@gmail.com <br>
 ⚡ Fun fact: Any fool can write code that a computer can understand. <br><br>
